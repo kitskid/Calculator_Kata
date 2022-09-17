@@ -68,7 +68,7 @@ public class Calculator {
             }
         } else if (a == 9) {
             resultString = "XC";
-        } else {
+        } else if (a == 10){
             resultString = "C";
         }
 
